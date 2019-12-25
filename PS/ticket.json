@@ -1,0 +1,159 @@
+{
+    "id":16928,
+    "type":"Ticket",
+    "bccAddresses":null,
+    "ccAddressesForTech":null,
+    "closeDate":null,
+    "departmentId":null,
+    "lastUpdated":"2019-12-01T14:10:55Z",
+    "locationId":10,
+    "priorityTypeId":6,
+    "room":null,
+    "statusTypeId":6,
+    "subject":"Fw: User account for Barrow, Natasha (barrownv) created successfully",
+    "clientReporter":
+    {
+        "id":9,
+        "type":"Client",
+        "email":"Ryan.Han@kingcounty.gov",
+        "firstName":"Ryan",
+        "lastName":"Han",
+        "notes":null,
+        "phone":"(206) 263-2724",
+        "phone2":"(206) 255-8765",
+        "department":null,
+        "location":
+        {
+            "id":10,
+            "type":"Location",
+            "address":null,
+            "city":null,
+            "locationName":"IT",
+            "postalCode":null,
+            "state":null},
+            "room":null,
+            "companyName":"KCRA",
+            "username":"hanrs"
+        },
+        "clientTech":null,
+        "department":null,
+        "location":
+        {
+            "id":10,
+            "type":"Location",
+            "address":null,
+            "city":null,
+            "locationName":"IT",
+            "postalCode":null,
+            "state":null
+        },
+        "prioritytype":
+        {
+            "id":6,
+            "type":"PriorityType",
+            "priorityTypeName":"KCRA Default"
+        },
+        "problemtype":
+        {
+            "id":7,
+            "type":"RequestType",
+            "detailDisplayName":"KCRA - New Request &#8226; Other"
+        },
+        "statustype":
+        {
+            "id":6,
+            "type":"StatusType",
+            "statusTypeName":"Assigned"
+        },
+        "techGroupLevel":
+        {
+            "id":8,
+            "type":"TechGroupLevel",
+            "level":1,
+            "levelName":"KCRA&nbsp;&nbsp;Level 1",
+            "shortLevelName":"Level 1"
+        },
+        "assets":[],
+        "detail":"Test\r<br/> ________________________________\r<br/> From: KCIT Identity Manager &lt;s-mimservice@KC1.onmicrosoft.com&gt;\r<br/> Sent: Friday, November 3, 2017 3:22 PM\r<br/> To: ZZGrp, Sheriffs LAN Admins &lt;sheriffslanadmins@kingcounty.gov&gt;\r<br/> Subject: User account for Barrow, Natasha (barrownv) created successfully\r<br/> \r<br/> Dear Built-in Synchronization Account,\r<br/> \r<br/> The account for Barrow, Natasha has been created successfully. Please share the below account details with the user. Additional onboarding items can be requested here IT Onboarding Form&lt;https://kc1.sharepoint.com/sites/KCIT/ITSC/Lists/EmployeeOnBoardingRequest/NewForm.aspx&gt;\r<br/> \r<br/> User details:\r<br/> Created\r<br/> 2017-10-11 20:39\r<br/> Display Name\r<br/> Barrow, Natasha\r<br/> Username\r<br/> barrownv\r<br/> Department\r<br/> KCSO\r<br/> Job Title\r<br/> Tenprint Examiner\r<br/> \r<br/> Best Regards,\r<br/> KCIT Identity Manager\r<br/> [<a href=\"http://www.kingcounty.gov/img/KClogo-horiz-black-lg.gif]\" target=\"_blank\" rel=\"nofollow\">http://www.kingcounty.gov/img/KClogo-horiz-black-lg.gif]<\/a>",
+        "reportDateUtc":"2019-12-01T21:54:43Z",
+        "displayDueDate":"2019-12-11T13:54:43Z",
+        "displayClient":"Ryan Han","emailClient":true,
+        "emailTech":true,
+        "emailTechGroupLevel":false,
+        "emailGroupManager":false,
+        "emailCc":false,
+        "emailBcc":false,
+        "needsApproval":false,
+        "ticketEditable":true,
+        "techId":null,
+        "levelNumber":"1",
+        "clientId":9,
+        "flaggedByTech":false,
+        "isPublic":true,
+        "canEscalate":true,
+        "bookmarkableLink":"https://sheriffhelpdesk/helpdesk/WebObjects/Helpdesk.woa/wa/TicketActions/view?ticket=16928",
+        "isDeleted":false,
+        "notes":[
+            {
+                "id":23852,
+                "type":"TechNote",
+                "date":"2019-12-01T14:10:54Z",
+                "isSolution":false,
+                "prettyUpdatedString":"moments ago <strong>Ryan Han<\/strong> said",
+                "mobileNoteText":"This is a test.",
+                "isTechNote":true,
+                "isHidden":false,
+                "attachments":[]
+            }
+        ],
+        "ticketCustomFields":[
+            {
+                "id":27265,
+                "type":"TicketCustomField",
+                "definitionId":11,
+                "restValue":null
+            }
+        ],
+        "enabledStatusTypes":[
+            {
+                "id":1,
+                "type":"StatusType",
+                "statusTypeName":"Open"
+            },
+            {
+                "id":6,
+                "type":"StatusType",
+                "statusTypeName":"Assigned"
+            },
+            {
+                "id":8,
+                "type":"StatusType",
+                "statusTypeName":"Pending User"
+            },
+            {
+                "id":13,
+                "type":"StatusType",
+                "statusTypeName":"On Hold"
+            },
+            {
+                "id":15,
+                "type":"StatusType",
+                "statusTypeName":"Pending Vendor"
+            },
+            {
+                "id":5,
+                "type":"StatusType",
+                "statusTypeName":"Resolved"
+            },
+            {
+                "id":3,
+                "type":"StatusType",
+                "statusTypeName":"Closed"
+            },
+            {
+                "id":4,
+                "type":"StatusType",
+                "statusTypeName":"Cancelled"
+            }
+            ],
+            "attachments":[]}
